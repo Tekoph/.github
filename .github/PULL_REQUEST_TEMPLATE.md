@@ -1,5 +1,9 @@
-Issue #<Issue Number> - <Subject>
+---
+title: 'Issue #<Issue Number> - <Subject>'
+labels: ''
+assignees: ''
 
+---
 **Changelog**
 -
 -
