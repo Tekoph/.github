@@ -1,2 +1,3 @@
 # .github
-Community Health Files
+
+Default Community Health Files for Teko
