@@ -1,6 +1,6 @@
 Issue #<Issue Number> - <Subject>
 
-**Proposed Changes**
+**Changelog**
 -
 -
 -

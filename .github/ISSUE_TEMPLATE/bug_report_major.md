@@ -1,8 +1,8 @@
 ---
-name: Bug Report
-about: Create a report to help us improve
+name: Bug Report - Major
+about: A bug with Major severity
 title: ''
-labels: 'bug'
+labels: 'bug,major'
 assignees: ''
 
 ---
