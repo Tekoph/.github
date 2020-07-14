@@ -2,7 +2,7 @@
 name: Bug Report - Minor
 about: A bug with Minor severity
 title: ''
-labels: 'bug,minor'
+labels: 'bug, minor'
 assignees: ''
 
 ---

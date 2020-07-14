@@ -2,7 +2,7 @@
 name: Bug Report - Major
 about: A bug with Major severity
 title: ''
-labels: 'bug,major'
+labels: 'bug, major'
 assignees: ''
 
 ---
