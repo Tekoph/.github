@@ -2,7 +2,7 @@
 name: Bug Report - Epic
 about: A bug with Epic severity
 title: ''
-labels: 'bug,epic'
+labels: 'bug epic'
 assignees: ''
 
 ---
