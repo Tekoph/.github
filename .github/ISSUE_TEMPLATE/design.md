@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-**What module/part of the system do you need the new design for?**
-Provide a clear description of the module (existing/non-existing).
+**Module**
+Provide a clear description of the module (existing/non-existing). If not able to specify, tell us how to get there.
 
 **Environment**
 Web or Mobile
 
-**Describe the design you need**
+**Description**
 Provide a concise description of the design output needed to complete the job.
 
 **Screenshots/Mock-ups**
