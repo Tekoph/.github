@@ -5,4 +5,4 @@ Issue #<Issue Number> - <Subject>
 -
 -
 
-Fixes Issue #<Issue Number>
+Issue #<Issue Number>
