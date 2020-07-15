@@ -19,5 +19,5 @@ Provide a concise description of the design output needed to complete the job.
 **Screenshots/Mock-ups**
 If applicable, provide screenshots or mock-ups for the design needed.
 
-**Additional context**
-Add any other context or notes about the design here.
+**Additional Notes/Context**
+Add any other notes or context about the design being requested here.

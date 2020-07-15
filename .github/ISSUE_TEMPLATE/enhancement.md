@@ -22,5 +22,5 @@ A clear and concise description of the impact/benefits of the enhancement.
 **Describe alternatives you've considered**
 A clear and concise description of any alternative solutions or enhancements you've considered.
 
-**Additional context**
+**Additional Notes/Context**
 Add any other context or screenshots about the enhancement here.
