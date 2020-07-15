@@ -22,7 +22,7 @@ A clear and concise description of the actual results.
 **Expected Result**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots/Videos**
 If applicable, add screenshots to better explain the problem in a visual manner.
 
 **Environment**
@@ -42,4 +42,4 @@ If applicable, add screenshots to better explain the problem in a visual manner.
 - Issue #<Issue Number>
 
 **Additional Notes/Context**
-Add any other context about the problem here e.g. error messages, stack trace, other environment related stuff
+Add any other context about the problem here e.g. error messages, stack trace, credentials, email/slack threads and other environment related stuff
