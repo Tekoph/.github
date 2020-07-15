@@ -2,7 +2,7 @@
 name: Feature Request
 about: File a feature request asked by the end user/customer
 title: ''
-labels: 'feature-request, user-story'
+labels: 'feature-request'
 assignees: ''
 
 ---

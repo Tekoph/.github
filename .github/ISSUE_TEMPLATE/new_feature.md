@@ -2,7 +2,7 @@
 name: New Feature/Module
 about: A new idea that can improve our system/process
 title: ''
-labels: 'new-feature, user-story'
+labels: 'new-feature'
 assignees: ''
 
 ---

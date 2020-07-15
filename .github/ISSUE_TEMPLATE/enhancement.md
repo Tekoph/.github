@@ -2,7 +2,7 @@
 name: Enhancement
 about: An enhancement to an existing module that can improve the system/process
 title: ''
-labels: 'enhancement, user-story'
+labels: 'enhancement'
 assignees: ''
 
 ---
