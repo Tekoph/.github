@@ -1,8 +1,8 @@
 ---
-name: Bug Report - Epic
-about: A bug with Epic severity
+name: Bug Report - Critical
+about: A bug with Critical severity
 title: ''
-labels: 'bug, epic'
+labels: 'bug, critical'
 assignees: ''
 
 ---
